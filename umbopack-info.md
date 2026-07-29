@@ -1,22 +1,29 @@
 ### Introduction
-UmboPack Infinite is the final modpack for the UmboPack modpack series, a series I came up with all the way back in 2021 when 1.16.5 just as a fun project. While I consider the other UmboPacks to be good lessons in what **NOT** to do in modpack design, I still love to look back and see my ideas at the time. UmboPack Infinite is *what* I wanted before, but didn't have the structure in mind, or didn't know how to design it. But, years later, I finally decided how I want UmboPack to be.
+UmboPack Infinite is the final modpack for the UmboPack modpack series, a series I came up with all the way back in 2021 when 1.16.5 just as a fun project. While I consider the previous UmboPacks valuable lessons in what **not** to do in modpack design, I still enjoy looking back at the ideas that inspired them.
+
+ UmboPack Infinite is *what* I wanted before, but didn't have the structure in mind, or didn't know how to design it. Years later, I finally figured out what I wanted UmboPack to become.
 
 This modpack is a hybrid between structured and kitchen-sink (sandbox and free) feel, with a heavy exploration twist. There's multiple paths to take for different types of players, but you are free and encouraged to mix and match them. The paths are as followed:
 
 | Path Name | Description                                                                                                                                                                                     | Mod Focus                                                                                               |
 | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| RPG       | The overall main progression path of the modpack, you will want to play with this to feel stronger.                                                                                             | Apotheosis, Simply Swords/Bows, Oathbound Relics, Artifacts, Cataclysm                                  |
-| Tech      | A more traditional and structured path of tech mods, starting with steampunk Create, before using the power of Create to manufacture plastic, which pushes you into the next era of technology. | Create (+ Aeronautics), Pneumaticcraft, Industrial Foregoing, Oritech, CC: Tweaked                      |
-| Magitech  | Using the power of souls and the past living, you harness their energy to contact demons and burn bedrock to make impossibly-powered machines with souls.                                       | Malum, Occultism, Ender IO                                                                              |
-| Magic     | A sandbox path of simple RPG-based magic that's quick to pick up and easy to understand.<br>Alternatively, the structured yet long journey of patience, colors, and the unknown.                | Iron's Spells and Spellbooks, Roots Classic, Pastel                                                     |
-| Living+   | Mods that expand basic Minecraft features to make them more in-depth and unique. It may prove useful to investigate what's around.                                                              | Farmer's Delight (+ addons), Field Guide, Starcatcher, Supplementaries, Sophisticated Storage/Backpacks |
+| RPG       | The primary progression path of the modpack. Explore dangerous locations, defeat increasingly powerful enemies, collect powerful equipment, and grow stronger through adventure and combat.                                                                                             | Apotheosis, Simply Swords/Bows, Oathbound Relics, Artifacts, Cataclysm                                  |
+| Tech      | A structured technology progression that begins with Create's steampunk machinery before expanding into automation, industry, computing, and advanced manufacturing. | Create (+ Aeronautics), Pneumaticcraft, Industrial Foregoing, Oritech, CC: Tweaked                      |
+| Magitech  | Harness the power of souls, spirits, and forbidden knowledge to create machines fueled by supernatural forces. Blending technology and magic, this path offers unique methods of automation and resource production.                                       | Malum, Occultism, Ender IO                                                                              |
+| Magic     | Choose between quick-to-learn spellcasting and longer, more structured magical studies. Whether you prefer throwing spells at your enemies or uncovering hidden secrets, there is a magical path for you.                | Iron's Spells and Spellbooks, Roots Classic, Pastel                                                     |
+| Living+   | Expands and deepens Minecraft's everyday systems. Farming, cooking, storage, exploration, and world interaction all become more rewarding and meaningful.                                                              | Farmer's Delight (+ addons), Field Guide, Starcatcher, Supplementaries, Sophisticated Storage/Backpacks |
+
+The paths are intended to complement one another. A powerful adventurer may benefit from automation, a mage may rely on advanced storage solutions, and a tech-focused player may seek powerful equipment from the RPG path. There is no "correct" order to play, so don't be afraid to explore multiple paths at once.
+
 
 ### Difficulty
-Recipes were changed, but only slightly to add some slight recipe gating, nothing crazy. Make sure you check out EMI before attempting to craft something, as it may be disabled or changed.
+While recipes have been adjusted, changes are generally light and primarily exist to encourage progression. Before crafting anything important, check EMI, as some recipes may be modified, gated, or disabled entirely.
 
-The modpack was built with players of all different backgrounds of experience when it comes to modded, meaning, if you have played Minecraft but don't have much or no mod experience at all, you could still play this pack and enjoy it.
+UmboPack Infinite was designed for players of all experience levels. Whether you're a longtime modded Minecraft veteran or someone playing their first modpack, the pack aims to provide a progression experience that is approachable while still offering depth for experienced players.
 
-The server runs on Hard difficulty, which can be pretty difficult if you are not careful.  UmboPack Infinite uses Apotheosis' world tier system as the main difficulty slider of the modpack. Each world tier must be unlocked except the first one. The higher the tier, the harder the mobs become, but the loot improves and it comes with some passive abilities as well.
+The server runs on Hard difficulty, so preparation matters. Dangerous exploration, powerful mobs, and challenging encounters are all part of the experience. While playing with a friend is not required, it can be recommended to make survival easier.
+
+The primary difficulty system is Apotheosis' World Tier progression. Only Haven tier is available from the start, while higher tiers must be unlocked through progression. Each new tier increases the strength of enemies, but also improves loot quality and grants additional passive bonuses. Higher risk comes with higher rewards.
 
 ### Update Schedule
 UmboPack Infinite is currently designed to receive a major update once per month, followed by minor bugfixes and hotfixes throughout the month. There is only one modpack creator, and it's the same person writing this, so please bear with me when it comes to speed of updates.
