@@ -20,6 +20,8 @@ Download the latest UmboPack Infinite base pack:
 
 [DOWNLOAD LINK HERE](https://www.google.com)
 
+[CURSEFORGE VERSION DOWNLOAD LINK HERE](https://www.google.com)
+
 This file will be a `.zip` file.
 
 **Do not extract the ZIP file.**
