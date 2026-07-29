@@ -36,22 +36,28 @@ Distant Horizons is on the server, so it cannot be removed due to AutoModpack, s
 
 
 ## Minimum Requirements?
-The actual minimum requirements are unknown, but the lowest-ended rig we tested was able to achieve at least 15 FPS, 20-24 FPS once stabilized with minimal effort (on a server, pre-generated world).
+The actual minimum requirements are unknown, but the lowest-end system we tested was able to achieve at least 15 FPS, 20-24 FPS once stabilized with minimal effort (on a server, pre-generated world).
 
 CPU: Intel Core I3-8100
 GPU: UHD Graphics 630
 RAM: 8GB
 
-I have developed the entire modpack while only having 8GB allocated, and it is more than enough for consistent 60+ FPS for hours of gameplay before needing a restart. I'd recommend having at least 6GB minimum.
+I developed the entire modpack with 8GB allocated and had no issues during extended play sessions. I recommend allocating at least 6GB, with 8GB being ideal for most players.
 
 
 ## Am I lagging, or is it the server?
-Client-sided lag is your frame rate, something on your side is lagging, the server is fine.
-Server-sided lag is rubberbanding, delayed block breaking/placement, or delayed mob movement. 
+Client-side lag means your game is struggling to render frames. This usually appears as low FPS, stuttering, or freezing.
+Server-side lag usually appears as:
+- Rubberbanding
+- Delayed block breaking or placement
+- Mobs moving slowly or teleporting
+- Chests opening late
+
+Lowering graphics settings only helps client-side lag. Shaders have one of the largest performance impacts in Minecraft. If you're struggling to maintain a playable frame rate, disable shaders before trying anything else.
 
 
 ## Important for Laptop Users
-If playing on a laptop and experiencing heavy lag, make sure Minecraft is using the correct GPU. You can check this in-game using F3 and looking at the top-right. If you see something like Intel UHD or AMD Radeon Graphics, it may be using the incorrect card.
+If playing on a laptop and experiencing heavy lag, make sure Minecraft is using the correct GPU. You can check this in-game using F3 and looking at the top-right. If you see Intel UHD, Intel Iris Xe, or another integrated graphics adapter instead of your dedicated NVIDIA or AMD graphics card, Minecraft may be using the wrong GPU.
 
 
 ## Why am I crashing on Linux?
