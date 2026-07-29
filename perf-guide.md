@@ -11,6 +11,7 @@ Java 25+ JVM Arguments: `-XX:+UseZGC -XX:+UseCompactObjectHeaders`
 
 If your launcher adds more JVM arguments of things like `-Xms` or `-Xmx`, those are normal.
 
+---
 
 ## Disabling Client-Sided Mods
 There are a few mods in UmboPack Infinite that specifically are used exclusively on the client, meaning it is safe to disable/uninstall them if you do not want them. For the sake of simplicity, it is recommended to only disable the mods, as it makes updating easier.
@@ -35,6 +36,7 @@ __It is not recommended to just disable every client-side mod, only the ones fro
 
 Distant Horizons is on the server, so it cannot be removed due to AutoModpack, so, it can just be disabled from in-game in Video Settings. Its button is the new one next to the FOV slider on the left.
 
+---
 
 ## Minimum Requirements?
 The actual minimum requirements are unknown, but the lowest-end system we tested was able to achieve at least 15 FPS, 20-24 FPS once stabilized with minimal effort (on a server, pre-generated world).
@@ -45,6 +47,7 @@ RAM: 8GB
 
 I developed the entire modpack with 8GB allocated and had no issues during extended play sessions. Allocating more RAM is not always better. Most players should use 6-8GB. Excessively high allocations may cause longer garbage collection pauses and can sometimes reduce performance.
 
+---
 
 ## Am I lagging, or is it the server?
 Client-side lag means your game is struggling to render frames. This usually appears as low FPS, stuttering, or freezing.
@@ -57,6 +60,7 @@ Server-side lag usually appears as:
 
 Lowering graphics settings only helps client-side lag. Shaders have one of the largest performance impacts in Minecraft. If you're struggling to maintain a playable frame rate, disable shaders before trying anything else. 
 
+---
 
 ## Important for Laptop Users
 If playing on a laptop and experiencing heavy lag, make sure Minecraft is using the correct GPU. You can check this in-game using F3 and looking at the top-right. If you see Intel UHD, Intel Iris Xe, or another integrated graphics adapter instead of your dedicated NVIDIA or AMD graphics card, Minecraft may be using the wrong GPU.
