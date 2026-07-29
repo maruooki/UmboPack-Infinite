@@ -14,7 +14,7 @@ If your launcher adds more JVM arguments of things like `-Xms` or `-Xmx`, those 
 ## Disabling Client-Sided Mods
 There are a few mods in UmboPack Infinite that specifically are used exclusively on the client, meaning it is safe to disable/uninstall them if you do not want them. For the sake of simplicity, it is recommended to only disable the mods, as it makes updating easier.
 
-The following mods are safe to disable for extra performance:```
+The following mods are safe to disable for extra performance:
 - Controlify
 - Punchy
 - Better Combat Punchy Fix
