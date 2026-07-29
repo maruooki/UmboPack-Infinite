@@ -1,5 +1,5 @@
 ## Java and JVM Arguments
-UmboPack Infinite was developed, tested, and designed for Java 25. Yes, 1.21.1 does use Java 21, but has the capability to use Java 25+, although 26 has not been tested for this modpack. If you have low memory and can't afford to allocate more, consider moving as Java 25 generally has lower memory overhead and better performance than Java 21 during our testing.
+UmboPack Infinite was developed, tested, and designed for Java 25. Yes, 1.21.1 does use Java 21, but has the capability to use Java 25+, although 26 has not been tested for this modpack. If you have low memory and can't afford to allocate more, consider upgrading to Java 25, as it generally has lower memory overhead and better performance than Java 21 during our testing.
 
 It's recommended to use the latest Adoptium Java 25, for those non-techy, that is the version with the most numbers and most recent date. Mojang's bundled Java generally lags behind the latest Adoptium releases and may have older performance optimizations and bug fixes. For the best results, use the latest Adoptium Java 25.
 
@@ -16,6 +16,7 @@ If your launcher adds more JVM arguments of things like `-Xms` or `-Xmx`, those 
 There are a few mods in UmboPack Infinite that specifically are used exclusively on the client, meaning it is safe to disable/uninstall them if you do not want them. For the sake of simplicity, it is recommended to only disable the mods, as it makes updating easier.
 
 The following mods are safe to disable for extra performance:
+
 - Controlify
 - Punchy
 - Better Combat Punchy Fix
@@ -42,18 +43,19 @@ CPU: Intel Core I3-8100
 GPU: UHD Graphics 630
 RAM: 8GB
 
-I developed the entire modpack with 8GB allocated and had no issues during extended play sessions. I recommend allocating at least 6GB, with 8GB being ideal for most players.
+I developed the entire modpack with 8GB allocated and had no issues during extended play sessions. Allocating more RAM is not always better. Most players should use 6-8GB. Excessively high allocations may cause longer garbage collection pauses and can sometimes reduce performance.
 
 
 ## Am I lagging, or is it the server?
 Client-side lag means your game is struggling to render frames. This usually appears as low FPS, stuttering, or freezing.
 Server-side lag usually appears as:
+
 - Rubberbanding
 - Delayed block breaking or placement
 - Mobs moving slowly or teleporting
 - Chests opening late
 
-Lowering graphics settings only helps client-side lag. Shaders have one of the largest performance impacts in Minecraft. If you're struggling to maintain a playable frame rate, disable shaders before trying anything else.
+Lowering graphics settings only helps client-side lag. Shaders have one of the largest performance impacts in Minecraft. If you're struggling to maintain a playable frame rate, disable shaders before trying anything else. 
 
 
 ## Important for Laptop Users
