@@ -26,10 +26,10 @@ The server runs on Hard difficulty, so preparation matters. Dangerous exploratio
 The primary difficulty system is Apotheosis' World Tier progression. Only Haven tier is available from the start, while higher tiers must be unlocked through progression. Each new tier increases the strength of enemies, but also improves loot quality and grants additional passive bonuses. Higher risk comes with higher rewards.
 
 ### Update Schedule
-UmboPack Infinite is currently designed to receive a major update once per month, followed by minor bugfixes and hotfixes throughout the month. There is only one modpack creator, and it's the same person writing this, so please bear with me when it comes to speed of updates.
+UmboPack Infinite aims to receive one major update each month, followed by smaller bug-fix, balance, and hotfix updates as needed throughout the month. Development is handled by a single person, so update schedules may occasionally shift depending on available time and the scope of the update.
 
-Updates are to be thematic based, so if I had like a "The Future Update" and included Mekanism, that would be an example. If a mod that you want and is a popular one and missing, it was more than likely removed to be added later as an update.
+Major updates are typically built around a theme. For example, a technology-focused update may introduce a mod such as Mekanism, along with related content and progression changes. If a popular mod is missing, there is a good chance it has been intentionally reserved for a future themed update rather than permanently excluded.
 
-Currently as the modpack is still in development, much is missing, and things like the quest book are not even close to finished. As the server goes on, chapters may randomly disappear. They are just being worked on while the server is live. They will return when editing is finished.
+UmboPack Infinite is still actively being developed. Some content is unfinished, and parts of the quest book may change, disappear temporarily, or be reworked as development continues. This is normal and simply means those sections are being updated.
 
-The server is hosting the modpack, so you do not need to manually install the modpack anytime there's an update, as the server will sync your client to the new mods, restarting your game after if need be.
+The official server uses AutoModpack, so players do not need to manually install updates. When the modpack is updated, the server will automatically synchronize the required files to your client and restart the game if necessary.
