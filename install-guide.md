@@ -18,9 +18,7 @@ That's perfectly fine. CurseForge is supported and can import the pack as well. 
 
 Download the latest UmboPack Infinite base pack:
 
-[DOWNLOAD LINK HERE](https://www.google.com)
-
-[CURSEFORGE VERSION DOWNLOAD LINK HERE](https://www.google.com)
+[UmboPack Infinite Modpack Base](https://drive.google.com/file/d/1iVDfIb8bw8aIQGEQwZZvKZSCFp20QJmg/view?usp=sharing)
 
 This file will be a `.zip` file.
 
@@ -54,7 +52,10 @@ This file will be a `.zip` file.
 
 Launch the modpack and connect to the official server.
 
-When you join for the first time, AutoModpack will automatically download any additional files required by the server and keep your installation synchronized with future updates. If you were wondering why the base modpack size was small, this is that reason.
+When you join for the first time, AutoModpack will ask for a fingerprint to verify your connection. This is put in place to prevent security threats. The fingerprint that you'll want is:
+`22e56e8aefaa7b81da4a57b96751a969f9a6fc3a8c61c0325a10e5104e477284`
+
+Copy and paste that into the box given. After, it will automatically download any additional files required by the server and keep your installation synchronized with future updates. If you were wondering why the base modpack size was small, this is that reason.
 
 Depending on the update, Minecraft may need to restart after files have been downloaded. This is normal.
 
@@ -65,6 +66,6 @@ Depending on the update, Minecraft may need to restart after files have been dow
 Before opening an issue:
 
 - Make sure you are using the latest version of the modpack.
-- Read the [Performance Guide](https://github.com/maruooki/UmboPack-Infinite/blob/main/perf-guide.md) if you are experiencing low FPS.
+- Read the [Performance Guide](https://github.com/maruooki/UmboPack-Infinite/blob/main/perf-guide.md) if you are experiencing low FPS, crashes, or other issues.
 - Include logs when reporting crashes.
 ``
