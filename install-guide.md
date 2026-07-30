@@ -68,4 +68,4 @@ Before opening an issue:
 - Make sure you are using the latest version of the modpack.
 - Read the [Performance Guide](https://github.com/maruooki/UmboPack-Infinite/blob/main/perf-guide.md) if you are experiencing low FPS, crashes, or other issues.
 - Include logs when reporting crashes.
-``
+
