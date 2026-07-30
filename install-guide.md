@@ -35,6 +35,9 @@ This file will be a `.zip` file.
 3. Select **Import**.
 4. Choose the downloaded UmboPack Infinite `.zip` file.
 5. Wait for the import to finish.
+6. Click **Edit** on the right-hand side of the screen. In the new window, go to **Settings**, then click on the **Java** tab.
+7. Click the checkmark next to **Java Installation**, **Skip Java compatibility checks**, and **Java Arguments**.
+8. Follow the directions located [here](https://github.com/maruooki/UmboPack-Infinite/blob/main/perf-guide.md#java-and-jvm-arguments) in the performance guide on how to install Java 25 for the best performance.
 
 ### CurseForge
 
@@ -69,3 +72,4 @@ Before opening an issue:
 - Read the [Performance Guide](https://github.com/maruooki/UmboPack-Infinite/blob/main/perf-guide.md) if you are experiencing low FPS, crashes, or other issues.
 - Include logs when reporting crashes.
 
+You can submit issues here: https://github.com/maruooki/UmboPack-Infinite/issues
