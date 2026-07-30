@@ -18,7 +18,7 @@ That's perfectly fine. CurseForge is supported and can import the pack as well. 
 
 Download the latest UmboPack Infinite base pack:
 
-[UmboPack Infinite Modpack Base](https://drive.google.com/file/d/1iVDfIb8bw8aIQGEQwZZvKZSCFp20QJmg/view?usp=sharing)
+[UmboPack Infinite Base Modpack](https://drive.google.com/file/d/1iVDfIb8bw8aIQGEQwZZvKZSCFp20QJmg/view?usp=sharing)
 
 This file will be a `.zip` file.
 
